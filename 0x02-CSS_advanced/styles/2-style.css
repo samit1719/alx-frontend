@@ -1,0 +1,31 @@
+
+/* set color */
+
+/* To make a smooth transition when scrolling */
+html {
+    scroll-behavior: smooth;
+}
+
+/* set the forground color for the "body" element*/
+body {
+    color: #161616;
+}
+
+/* set the forground color for the "a" element*/
+a {
+    color: #161616;
+}
+
+/* make element which has ".visually-hidden" class hidden */
+.visually-hidden {
+    display: none;
+}
+
+/* set the forground color for elements which has ".car-category" class*/
+.card-category {
+    color: #d73953;
+}
+ /* set the forground color for elements which has ".section-tagline" class*/
+.section-tagline {
+    color: #d73953;
+}
